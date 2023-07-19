@@ -79,8 +79,28 @@ main{
     color: #0e385f;
     font-size: 20px;
     font-weight: bold;
-    line-height: 20px;
+    line-height: 29px;
     margin-top: 40px;
     word-spacing: -1px;
     max-width: 400px;
+}
+
+#right-section{
+    align-self: flex-start;
+    color: #333;
+    margin-left: 4em;
+}
+
+.input-group{
+    width: 180px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccd0d5;
+    color: #1c1e21;
+    margin: 0.2em;
+}
+
+.input-group-full{
+    width: 393px !important;
 }
